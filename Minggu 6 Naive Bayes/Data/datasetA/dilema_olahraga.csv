@@ -1,0 +1,15 @@
+cuaca,temperatur,kelembapan,berangin,main_tenis_ga_ya
+cerah,panas,tinggi,false,gak_mager
+cerah,panas,tinggi,true,gak_mager
+mendung,panas,tinggi,false,ya_lah_masa_enggak
+hujan,sedang,tinggi,false,ya_lah_masa_enggak
+hujan,sejuk,normal,false,ya_lah_masa_enggak
+hujan,sejuk,normal,true,gak_mager
+mendung,sejuk,normal,true,ya_lah_masa_enggak
+cerah,sedang,tinggi,false,gak_mager
+cerah,sejuk,normal,false,ya_lah_masa_enggak
+hujan,sedang,normal,false,ya_lah_masa_enggak
+cerah,sedang,normal,true,ya_lah_masa_enggak
+mendung,sedang,tinggi,true,ya_lah_masa_enggak
+mendung,panas,normal,false,ya_lah_masa_enggak
+hujan,sedang,tinggi,true,gak_mager
